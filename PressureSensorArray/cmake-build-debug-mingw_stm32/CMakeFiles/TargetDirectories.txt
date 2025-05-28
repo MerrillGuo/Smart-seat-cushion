@@ -1,0 +1,3 @@
+D:/CUHK_project/SeatPad_Stm32Version/PressureSensorArray/cmake-build-debug-mingw_stm32/CMakeFiles/PressureSensorArray.elf.dir
+D:/CUHK_project/SeatPad_Stm32Version/PressureSensorArray/cmake-build-debug-mingw_stm32/CMakeFiles/edit_cache.dir
+D:/CUHK_project/SeatPad_Stm32Version/PressureSensorArray/cmake-build-debug-mingw_stm32/CMakeFiles/rebuild_cache.dir
